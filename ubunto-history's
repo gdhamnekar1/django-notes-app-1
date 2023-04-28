@@ -1,0 +1,49 @@
+ubuntu@ip-10-0-0-123:~$ history
+    1  exit
+    2  ls
+    3  sudo rm subscribe.txt 
+    4  ls
+    5  sudo apt-get update
+    6  sudo apt install nginx
+    7  systemctl status nginx
+    8  systemctl restrat  nginx
+    9  systemctl restart  nginx
+   10  sudo systemctl restart  nginx
+   11  ls
+   12  ls -la
+   13  cd /var/www/html
+   14  ls
+   15  cat index.nginx-debian.html 
+   16  cd
+   17  cd /var/www/html
+   18  ls
+   19  vim index.html
+   20  docker ps
+   21  docker build -t notes-app .
+   22  cd django-notes-app/
+   23  docker build -t notes-app .
+   24  ls
+   25  sudo docker build -t notes-app .
+   26  docker build . -t notes-app 
+   27  docker build .-t notes-app 
+   28  sudodocker build . -t notes-app 
+   29  sudo docker build . -t notes-app 
+   30  sudo docker build -t notes-app .
+   31  docker build -t notes-app .
+   32  docker run -p 8000:8000 notes-app
+   33  sudo docker imags
+   34  sudo docker image
+   35  sudo docker images
+   36  cd django-notes-app/
+   37  docker run -d -p 8000:8000 notes-app:latest
+   38  sudo docker run -d -p 8000:8000 notes-app:latest
+   39  sudo docker ps -a | grep 8000
+   40  sudo docker stop <container-id>
+   41  sudo lsof -i :8000
+   42  sudo kill <process-id>
+   43  docker run -d -p 8000:8000 notes-app:latest
+   44  sudo docker images
+   45  docker run -d -p 8000:8000 notes-app:latestdocker run -d -p 8000:8000 notes-app:latest
+   46  docker run -d -p 8000:8000 notes-app:latest
+   47  vim Dockerfiledocker run -d -p 8000:8000 notes-app:latest
+   48  history
